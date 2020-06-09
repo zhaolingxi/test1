@@ -80,4 +80,4 @@ while True:
     elif status == 'n':
         break
     else:
-        print('请正确选择是否继续下载')
+        print('请正确选择是否继续下载h h h ')
